@@ -13,7 +13,7 @@
 
 #### 1. Клонируйте репозиторий: ####
 
-`git clone https://github.com/IyaLobach/TCP.git`
+`git clone https://github.com/IyaLobach/ChatTCP.git`
 
 ### 2. Скомпилируйте: ###
 
@@ -36,13 +36,13 @@
 
 Возможные команды:
 
-@name для изменения имени
+1. @name для изменения имени
 
-@left для выхода из чата
+2. @left для выхода из чата
  
-@senduser для отправки сообщения конкретному пользователю
+3. @senduser для отправки сообщения конкретному пользователю
 
-@alarm time для установки будильника
+4. @alarm time для установки будильника
 
 Помимо этого, каждый пользователь при входе должен ввести свой Id. Если 
 пользователь впервые подключается к чату, то может ввести предложенный 
@@ -64,12 +64,12 @@ Timer). Когда срабатывает будильник, пользоват
 
 Окно первого клиента: 
 
-![Client1](https://github.com/IyaLobach/TCP/blob/main/images/1.png)
+![Client1](https://github.com/IyaLobach/ChatTCP/blob/main/images/1.png)
 
 Окно второго клиента: 
 
-![Client2](https://github.com/IyaLobach/TCP/blob/main/images/1.png)
+![Client2](https://github.com/IyaLobach/ChatTCP/blob/main/images/2.png)
 
 Окно третьего клиента: 
 
-![Client3](https://github.com/IyaLobach/TCP/blob/main/images/1.png)
+![Client3](https://github.com/IyaLobach/ChatTCP/blob/main/images/3.png)
