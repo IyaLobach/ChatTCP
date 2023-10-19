@@ -12,6 +12,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Timer;
 import java.util.TimerTask;
+import com.suai.TCPServer.ClientThread;
 
 //Пользователь может поставить себе будильник (@alarm time) на сервере (класс Timer).
 //Когда срабатывает будильник, пользователю присылается сообщение “Wake up!”.
